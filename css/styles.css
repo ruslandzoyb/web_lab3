@@ -1,0 +1,13 @@
+h1{
+    font-style: oblique;
+}
+nav{
+    background-color: lightcoral;
+}
+ul {
+list-style-type: none;
+}
+li{
+    display: inline;
+    padding-left: 30px;
+}
